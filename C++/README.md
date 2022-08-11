@@ -9,3 +9,5 @@
 [3. Encapsulation](../C%2B%2B/0003.encapsulation.cpp)
 
 [4. Function calls for dimentions calculation](../C%2B%2B/0004.Function_call.cpp)
+
+[5. Value return](../C%2B%2B/0005.Value_return.cpp)
