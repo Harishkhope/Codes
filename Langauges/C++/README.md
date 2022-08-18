@@ -13,3 +13,5 @@
 [5. Value return](../C%2B%2B/0005.Value_return.cpp)
 
 [6. Leap year](../C++/0006.leap_year.cpp)
+
+[7. Prime number](../C++/0007.prime_number.cpp)
