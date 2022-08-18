@@ -11,5 +11,3 @@
 [4. Function calls for dimentions calculation](../C%2B%2B/0004.Function_call.cpp)
 
 [5. Value return](../C%2B%2B/0005.Value_return.cpp)
-
-[6. leap year](../C++/0006.leap_year.cpp)
