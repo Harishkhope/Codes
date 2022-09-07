@@ -17,3 +17,5 @@
 [7. Prime number](../C++/0007.prime_number.cpp)
 
 [8. Even number](../C++/0008.Even_number.cpp)
+
+[8. Pattern 1](../C++/0009.pattern_1.cpp)
