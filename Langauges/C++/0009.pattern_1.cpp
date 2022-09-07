@@ -1,16 +1,23 @@
 #include <iostream>
 using namespace std;
-void exchange(int &p, int &q)
+int main()
 {
-    int temp;
-    temp = p;
-    p = q;
-    q = temp;
-}
-main()
-{
-    int a = 5, b = 7;
-    cout << "a=" << a << "b=" << b << endl;
-    exchange(a, b);
-    cout << "a=" << a << "b=" << b;
+    int n;
+    cout<<"enter the value";
+    cin>>n;
+    int i=1;
+    while (i<=n)
+    {
+        int j=1;
+        while (j<=n)
+        {
+            cout<<"*";
+            j=j+1;
+        }
+
+        cout<<endl;
+        i=i+1;
+        
+    }
+    
 }
