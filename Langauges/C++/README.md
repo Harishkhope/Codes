@@ -20,8 +20,8 @@
 
 [9. Pattern 1](../C++/0009.pattern_1.cpp)
 
-[10. Pattern 2](../C++/0010.pattern_2.cpp)
+[10.Pattern 2](../C++/0010.pattern_2.cpp)
 
-[11. Pattern 3](../C++/0011.pattern_3.cpp)
+[11.Pattern 3](../C++/0011.pattern_3.cpp)
 
-[12. Pattern 4](../C++/0012.pattern_4.cpp)
+[12.Pattern 4](../C++/0012.pattern_4.cpp)
