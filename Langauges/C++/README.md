@@ -19,3 +19,5 @@
 [8. Even number](../C++/0008.Even_number.cpp)
 
 [8. Pattern 1](../C++/0009.pattern_1.cpp)
+
+[8. Pattern 2](../C++/0010.pattern_2.cpp)
