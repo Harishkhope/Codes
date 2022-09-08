@@ -18,8 +18,10 @@
 
 [8. Even number](../C++/0008.Even_number.cpp)
 
-[8. Pattern 1](../C++/0009.pattern_1.cpp)
+[9. Pattern 1](../C++/0009.pattern_1.cpp)
 
-[8. Pattern 2](../C++/0010.pattern_2.cpp)
+[10. Pattern 2](../C++/0010.pattern_2.cpp)
 
-[8. Pattern 3](../C++/0011.pattern_3.cpp)
+[11. Pattern 3](../C++/0011.pattern_3.cpp)
+
+[12. Pattern 4](../C++/0012.pattern_4.cpp)
