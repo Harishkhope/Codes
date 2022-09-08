@@ -21,3 +21,5 @@
 [8. Pattern 1](../C++/0009.pattern_1.cpp)
 
 [8. Pattern 2](../C++/0010.pattern_2.cpp)
+
+[8. Pattern 3](../C++/0011.pattern_3.cpp)
