@@ -2,4 +2,4 @@
 
 ## Langauges
 
-- [c++](../Codes/Langauges/C%2B%2B/)
+- [c++](/Langauges/C%2B%2B/)
