@@ -2,4 +2,8 @@
 
 ## Langauges
 
-- [c++](/Langauges/C%2B%2B/)
+- [C++](/Langauges/C%2B%2B/)
+
+## Platform
+
+- [GeeksforGeeks](./Platforms/GeeksforGeeks/)
