@@ -11,5 +11,6 @@
 | [5. Find element occuring once when all other are present thrice](https://practice.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/0)                                                      | **Medium** | `Array` | [Solution](../GeeksforGeeks/Arrays/005.Find_element_occuring_once_when_all_other_are_present_thrice.cpp)                           |
 | [6. Tom and jerry](https://practice.geeksforgeeks.org/problems/tom-and-jerry1325/0)                                                      | **Easy** | `Array` | [Solution](../GeeksforGeeks/Arrays/006.Tom_and_Jerry.cpp)                           |
 | [7. Peak element](https://practice.geeksforgeeks.org/problems/peak-element/0)                                                      | **Easy** | `Array` | [Solution](../GeeksforGeeks/Arrays/007.Peak_element.cpp)                           |
+| [8. Search in a matrix ](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/0)                                                      | **Easy** | `Array` | [Solution](../GeeksforGeeks/Arrays/008.Search_in_a_matrix.cpp)                           |
 
 </div>
