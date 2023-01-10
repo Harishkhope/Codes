@@ -1,5 +1,5 @@
 
 # Platform
 
-- [GeeksforGeeks](./Platforms/GeeksforGeeks/)
-- [LeetCode](./Platforms/LeetCode/)
+- [GeeksforGeeks](./GeeksforGeeks/)
+- [LeetCode](./LeetCode/)
