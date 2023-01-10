@@ -7,6 +7,7 @@
 | [1.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/001.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.cpp) |
 | [2.Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/002.Number_of_1Bits.cpp) |
 | [3.Missing Number](https://leetcode.com/problems/missing-number/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/003.Missing_Number.cpp) |
+| [3.Move zeroes](https://leetcode.com/problems/move-zeroes/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/004._Move_Zeroes.cpp) |
 
 
 </div>
