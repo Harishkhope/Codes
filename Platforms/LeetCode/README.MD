@@ -8,6 +8,7 @@
 | [2.Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/002.Number_of_1Bits.cpp) |
 | [3.Missing Number](https://leetcode.com/problems/missing-number/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/003.Missing_Number.cpp) |
 | [4.Move zeroes](https://leetcode.com/problems/move-zeroes/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/004._Move_Zeroes.cpp) |
+| [4.Single Number II](https://leetcode.com/problems/single-number-ii/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/005.Single_Number_II.cpp) |
 
 
 </div>
