@@ -13,6 +13,7 @@
 | [7. Reverse integer](https://leetcode.com/problems/reverse-integer/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/007.Reverse_Integer.cpp) |
 | [8. Plus one](https://leetcode.com/problems/plus-one/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/008%2CPlus_one.cpp) |
 | [9. kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/009.kth_largest_element_in_an_array.cpp) |
+| [10. Rotate array](https://leetcode.com/problems/rotate-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/010.Rotate_array.cpp) |
 
 
 </div>
