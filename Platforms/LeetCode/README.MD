@@ -11,6 +11,7 @@
 | [5.Single Number II](https://leetcode.com/problems/single-number-ii/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/005.Single_Number_II.cpp) |
 | [6. Merge sorted array](https://leetcode.com/problems/merge-sorted-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/006.Merge_Sorted_Array.cpp) |
 | [7. Reverse integer](https://leetcode.com/problems/reverse-integer/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/007.Reverse_Integer.cpp) |
+| [8. Plus one](https://leetcode.com/problems/plus-one/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/008%2CPlus_one.cpp) |
 
 
 </div>
