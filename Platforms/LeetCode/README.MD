@@ -16,6 +16,7 @@
 | [10. Rotate array](https://leetcode.com/problems/rotate-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/010.Rotate_array.cpp) |
 | [11.Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/011.Running_Sum_of_1d_Array.cpp) |
 | [12. Tow sum](https://leetcode.com/problems/two-sum/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/012.Two_Sum.cpp) |
+| [13. First and last position of element in a sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/013.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) |
 
 
 </div>
