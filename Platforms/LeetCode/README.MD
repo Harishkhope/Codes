@@ -14,7 +14,8 @@
 | [8. Plus one](https://leetcode.com/problems/plus-one/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/008%2CPlus_one.cpp) |
 | [9. kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/009.kth_largest_element_in_an_array.cpp) |
 | [10. Rotate array](https://leetcode.com/problems/rotate-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/010.Rotate_array.cpp) |
-| [011.Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/011.Running_Sum_of_1d_Array.cpp) |
+| [11.Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/011.Running_Sum_of_1d_Array.cpp) |
+| [12. Tow sum](https://leetcode.com/problems/two-sum/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/012.Two_Sum.cpp) |
 
 
 </div>
