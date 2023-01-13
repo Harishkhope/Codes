@@ -21,6 +21,7 @@
 | [15.Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/015.Find_the_Duplicate_Number.cpp) |
 | [16.Median Of Two sorted array ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/016.Median_of_Two_Sorted_Arrays.cpp) |
 | [17. Remove duplicates from a sorted array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/017.Remove_Duplicates_from%20_Array.cpp) |
+| [18. Valid Anagram ](https://leetcode.com/problems/valid-anagram/description/) | **Easy**   | `STRING` | [Solution](../LeetCode/Arrays/018.Valid_Anagram.cpp) |
 
 
 </div>
