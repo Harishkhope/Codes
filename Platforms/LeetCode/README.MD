@@ -23,7 +23,7 @@
 | [17. Remove duplicates from a sorted array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/017.Remove_Duplicates_from%20_Array.cpp) |
 | [18. Valid Anagram ](https://leetcode.com/problems/valid-anagram/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/018.Valid_Anagram.cpp) |
 | [19. First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/019.First_Missing_positive.cpp) |
-| [20. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/019.First_Missing_positive.cpp) |
+| [20. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/020.Kth_Smallest_Element_in_a_Sorted_Matrix.cpp) |
 
 
 </div>
