@@ -17,7 +17,8 @@
 | [11.Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/011.Running_Sum_of_1d_Array.cpp) |
 | [12. Tow sum](https://leetcode.com/problems/two-sum/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/012.Two_Sum.cpp) |
 | [13. First and last position of element in a sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/013.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) |
-| [14. Majority Element](https://leetcode.com/problems/majority-element/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/014.Majority_element.cpp) |
+| [14. Majority Element](https://leetcode.com/problems/majority-element/description/) | **easy**   | `Array` | [Solution](../LeetCode/Arrays/014.Majority_element.cpp) |
+| [15.Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/015.Find_the_Duplicate_Number.cpp) |
 
 
 </div>
