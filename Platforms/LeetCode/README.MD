@@ -19,6 +19,7 @@
 | [13. First and last position of element in a sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/013.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) |
 | [14. Majority Element](https://leetcode.com/problems/majority-element/description/) | **easy**   | `Array` | [Solution](../LeetCode/Arrays/014.Majority_element.cpp) |
 | [15.Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/015.Find_the_Duplicate_Number.cpp) |
+| [16.Median Of Two sorted array ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/016.Median_of_Two_Sorted_Arrays.cpp) |
 
 
 </div>
