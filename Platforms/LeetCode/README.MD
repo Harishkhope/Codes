@@ -26,6 +26,7 @@
 | [20. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/020.Kth_Smallest_Element_in_a_Sorted_Matrix.cpp) |
 | [21. Search a 2d matrix ](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/021.Search_a_2D_Matrix.cpp) |
 | [23. Rotate Image ](https://leetcode.com/problems/rotate-image/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/023.Rotate_Image.cpp) |
+| [24. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/024.Roman_to_Integer.cpp) |
 
 
 </div>
