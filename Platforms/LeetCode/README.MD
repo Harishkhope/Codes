@@ -27,7 +27,8 @@
 | [21. Search a 2d matrix ](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/021.Search_a_2D_Matrix.cpp) |
 | [23. Rotate Image ](https://leetcode.com/problems/rotate-image/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/023.Rotate_Image.cpp) |
 | [24. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/024.Roman_to_Integer.cpp) |
-| [25. Contains Duplicates](https://leetcode.com/problems/power-of-two/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/026.Power_of_Two.cpp) |
+| [25. Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/025.Contains_Duplicate.cpp) |
+| [26. Power of three](https://leetcode.com/problems/power-of-two/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/026.Power_of_Two.cpp) |
 
 
 </div>
