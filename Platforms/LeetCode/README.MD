@@ -17,7 +17,7 @@
 | [11.Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/011.Running_Sum_of_1d_Array.cpp) |
 | [12. Tow sum](https://leetcode.com/problems/two-sum/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/012.Two_Sum.cpp) |
 | [13. First and last position of element in a sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/013.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) |
-| [14. Majority Element](https://leetcode.com/problems/majority-element/description/) | **easy**   | `Array` | [Solution](../LeetCode/Arrays/014.Majority_element.cpp) |
+| [14. Majority Element](https://leetcode.com/problems/majority-element/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/014.Majority_element.cpp) |
 | [15.Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/015.Find_the_Duplicate_Number.cpp) |
 | [16.Median Of Two sorted array ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/016.Median_of_Two_Sorted_Arrays.cpp) |
 | [17. Remove duplicates from a sorted array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/017.Remove_Duplicates_from%20_Array.cpp) |
@@ -25,6 +25,7 @@
 | [19. First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/019.First_Missing_positive.cpp) |
 | [20. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/020.Kth_Smallest_Element_in_a_Sorted_Matrix.cpp) |
 | [21. Search a 2d matrix ](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/021.Search_a_2D_Matrix.cpp) |
+| [22. Transpose matrix ](https://leetcode.com/problems/transpose-matrix/description/) | **Easy**   | `2D Array` | [Solution](../LeetCode/Arrays/022.Transpose_Matrix.cpp) |
 
 
 </div>
