@@ -24,6 +24,7 @@
 | [18. Valid Anagram ](https://leetcode.com/problems/valid-anagram/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/018.Valid_Anagram.cpp) |
 | [19. First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/019.First_Missing_positive.cpp) |
 | [20. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/020.Kth_Smallest_Element_in_a_Sorted_Matrix.cpp) |
+| [21. Search a 2d matrix ](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/021.Search_a_2D_Matrix.cpp) |
 
 
 </div>
