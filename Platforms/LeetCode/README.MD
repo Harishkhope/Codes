@@ -29,6 +29,7 @@
 | [24. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/024.Roman_to_Integer.cpp) |
 | [25. Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/025.Contains_Duplicate.cpp) |
 | [26. Power of two](https://leetcode.com/problems/power-of-two/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/026.Power_of_Two.cpp) |
+| [27. Three sum](https://leetcode.com/problems/3sum/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/027.Three_sum.cpp) |
 
 
 </div>
