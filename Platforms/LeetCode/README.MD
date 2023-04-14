@@ -25,11 +25,12 @@
 | [19. First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | **Hard**   | `Array` | [Solution](../LeetCode/Arrays/019.First_Missing_positive.cpp) |
 | [20. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/020.Kth_Smallest_Element_in_a_Sorted_Matrix.cpp) |
 | [21. Search a 2d matrix ](https://leetcode.com/problems/search-a-2d-matrix/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/021.Search_a_2D_Matrix.cpp) |
-| [23. Rotate Image ](https://leetcode.com/problems/rotate-image/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/023.Rotate_Image.cpp) |
-| [24. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/024.Roman_to_Integer.cpp) |
-| [25. Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/025.Contains_Duplicate.cpp) |
-| [26. Power of two](https://leetcode.com/problems/power-of-two/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/026.Power_of_Two.cpp) |
-| [27. Three sum](https://leetcode.com/problems/3sum/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/027.Three_sum.cpp) |
+| [22. Rotate Image ](https://leetcode.com/problems/rotate-image/description/) | **Medium**   | `2D Array` | [Solution](../LeetCode/Arrays/023.Rotate_Image.cpp) |
+| [23. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | **Easy**   | `String` | [Solution](../LeetCode/Arrays/024.Roman_to_Integer.cpp) |
+| [24. Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/025.Contains_Duplicate.cpp) |
+| [25. Power of two](https://leetcode.com/problems/power-of-two/description/) | **Easy**   | `Array` | [Solution](../LeetCode/Arrays/026.Power_of_Two.cpp) |
+| [26. Three sum](https://leetcode.com/problems/3sum/description/) | **Medium**   | `Array` | [Solution](../LeetCode/Arrays/027.Three_sum.cpp) |
+| [26. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | **Easy**   | `2D` | [Solution](../LeetCode/Arrays/027.Transpose_Matrix.cpp) |
 
 
 </div>
